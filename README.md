@@ -10,6 +10,7 @@ git clone https://github.com/Jonnyan404/zerotier-planet
 OR
 git clone https://gitee.com/Jonnyan404/zerotier-planet
 
+cd zerotier-planet
 docker-compose up -d
 ```
 
