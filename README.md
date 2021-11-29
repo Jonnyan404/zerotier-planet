@@ -26,6 +26,13 @@ docker-compose up -d
 - 用户名:admin
 - 密码:mrdoc.fun
 
+## 后记
+
+经实测,window/Android客户端可直接连接,无需修改任何文件.理论上其它客户端同理.
+
+### 私有 zerotier-planet 的优势:
+- 解除官方 50 的设备连接数限制
+- 提升手机客户端连接的稳定性
 
 # Reference Link
 
