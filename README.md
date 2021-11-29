@@ -7,9 +7,7 @@
 # 必要条件
 
 - 具有公网ip的服务器(需要开放4000/tcp端口,亦可自定义端口）
-
 - 安装 docker
-
 - 安装 docker-compose
 
 # 用法
@@ -26,7 +24,6 @@ docker-compose up -d
 然后访问 `http://ip:4000` 访问web界面.
 
 - 用户名:admin
-
 - 密码:mrdoc.fun
 
 
