@@ -26,6 +26,10 @@ docker-compose up -d
 - 用户名:admin
 - 密码:mrdoc.fun
 
+# 关联云服务器(带公网IP)
+
+[【腾讯云】云产品限时秒杀，爆款2核4G云服务器，首年74元](https://curl.qcloud.com/S2Db7PLK)
+
 ## 后记
 
 经实测,window/Android客户端可直接连接,无需修改任何文件.理论上其它客户端同理.
