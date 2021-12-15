@@ -4,6 +4,8 @@
 私有部署zeroteir-planet服务
 基于 [ztncui](https://github.com/key-networks/ztncui-aio) 整理成 docker-compose.yml 文件.
 
+电报群: <https://t.me/zerotier_moon>
+
 # 必要条件
 
 - 具有公网ip的服务器(需要开放4000/tcp端口,亦可自定义端口）
