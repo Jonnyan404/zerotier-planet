@@ -14,6 +14,12 @@
 
 # 用法
 
+纯小白建议直接执行这个:
+
+`docker run --restart=on-failure:3 -d --name ztncui -e HTTP_PORT=4000 -e HTTP_ALL_INTERFACES=yes -e ZTNCUI_PASSWD=mrdoc.fun -p 4000:4000 keynetworks/ztncui`
+
+有基础的,可二选一.
+
 ```
 git clone https://github.com/Jonnyan404/zerotier-planet
 OR
