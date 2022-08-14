@@ -17,4 +17,8 @@ services:
             - '9993:9993'
             - '9993:9993/udp'
             - '3180:3180' # planet/moon文件在线下载入口，如不对外提供。可防火墙禁用此端口。
+        volumes:
+            - './zerotier-one:/var/lib/zerotier-one'
+            - './ztncui/etc:/opt/key-networks/ztncui/etc'
+            # 按实际路径挂载卷， 冒号前面是宿主机的， 支持相对路径
         image: keynetworks/ztncui
