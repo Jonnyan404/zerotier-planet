@@ -51,6 +51,10 @@ docker restart ztncui
 - 解除官方 25 的设备连接数限制
 - 提升手机客户端连接的稳定性
 
+# 同类型项目推荐
+
+https://github.com/xubiaolin/docker-zerotier-planet
+
 # Reference Link
 
 - <https://www.mrdoc.fun/doc/443/>
