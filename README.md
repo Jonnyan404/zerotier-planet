@@ -1,3 +1,4 @@
+TG群: https://t.me/zerotier_moon
 
 # 一分钟自建zerotier-planet
 
@@ -39,7 +40,7 @@ docker restart ztncui
 
 # 各客户端配置planet
 
-限于篇幅，请到 <https://www.mrdoc.fun/doc/443/> 查阅
+限于篇幅，请到 <https://www.mrdoc.fun/doc/443/> 和 https://github.com/Jonnyan404/zerotier-planet/blob/main/%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md 查阅
 
 
 # 关联云服务器(带公网IP)
@@ -53,7 +54,7 @@ docker restart ztncui
 
 # 同类型项目推荐
 
-https://github.com/xubiaolin/docker-zerotier-planet
+https://tailscale.com/
 
 # Reference Link
 
