@@ -22,6 +22,7 @@ OR
 git clone https://gitee.com/Jonnyan404/zerotier-planet
 
 cd zerotier-planet
+请修改docker-compose.yml内的IP地址为你自己的
 docker-compose up -d
 # 以下步骤为创建planet和moon
 docker cp mkmoonworld-x86_64 ztncui:/tmp
