@@ -1,4 +1,4 @@
-TG群: https://t.me/zerotier_moon
+~TG群(号没了🙃🙃🙃)~
 
 # 一分钟自建zerotier-planet
 
