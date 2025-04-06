@@ -66,10 +66,14 @@ docker restart ztncui
 # FAQ
 
 1. 为什么不支持ARM?
-  因为依赖的补丁 mkmoonworld 没有arm版本.
+   
+  ~因为依赖的补丁 mkmoonworld 没有arm版本.~
+可参考 [issue/21楼回复](https://github.com/Jonnyan404/zerotier-planet/issues/21#issuecomment-1322978949)
+
 2. 为什么不支持更改9993端口?
-  因为依赖的补丁 mkmoonworld 没有提供更改端口的变量,如需更改,可自行研究打包更改.
-3. 其它问题请多翻阅 issue
+   ~因为依赖的补丁 mkmoonworld 没有提供更改端口的变量,如需更改,可自行研究打包更改.~
+   可参考 [issue/21楼回复](https://github.com/Jonnyan404/zerotier-planet/issues/21#issuecomment-1322978949)
+5. 其它问题请多翻阅 issue
 
 
 # Reference Link
