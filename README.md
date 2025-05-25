@@ -56,8 +56,10 @@ docker restart ztncui
 
 # 同类型项目推荐
 
-- https://tailscale.com/
-- https://github.com/EasyTier/EasyTier  
+- https://github.com/EasyTier/EasyTier
+- https://github.com/wg-easy/wg-easy
+- https://hub.docker.com/r/jonnyan404/n2n-v3
+- 商业软件 https://tailscale.com/
 - wireguard
 - openvpn
 - frp
