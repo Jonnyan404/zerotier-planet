@@ -56,6 +56,7 @@ docker restart ztncui
 
 # 同类型项目推荐
 
+- https://github.com/sinamics/ztnet 用户[oneisall8955](https://github.com/Jonnyan404/zerotier-planet/issues/11#issuecomment-3266937259)推荐
 - https://github.com/EasyTier/EasyTier
 - https://github.com/wg-easy/wg-easy
 - https://hub.docker.com/r/jonnyan404/n2n-v3
