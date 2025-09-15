@@ -86,3 +86,7 @@ docker restart ztncui
 - [zerotier的planet服务器（根服务器）的搭建踩坑记](https://www.emengweb.com/p/zerotier%E7%9A%84planet%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88%E6%A0%B9%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%89%E7%9A%84%E6%90%AD%E5%BB%BA%E8%B8%A9%E5%9D%91%E8%AE%B0%E3%80%82%E6%97%A0%E9%9C%80zerotier%E5%AE%98%E7%BD%91%E8%B4%A6%E5%8F%B7%E3%80%82)
 - <https://www.mrdoc.fun/doc/443/>
 - <https://github.com/key-networks/ztncui-aio>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Jonnyan404/zerotier-planet&type=Date)](https://www.star-history.com/#Jonnyan404/zerotier-planet&Date)
