@@ -8,7 +8,7 @@ services:
         container_name: ztncui
         restart: always
         environment:
-            - MYADDR=1.1.1.1 #改成自己的服务器公网IP
+            - MYADDR=106.52.48.44 #改成自己的服务器公网IP
             - HTTP_PORT=4000
             - HTTP_ALL_INTERFACES=yes
             - ZTNCUI_PASSWD=mrdoc.fun
