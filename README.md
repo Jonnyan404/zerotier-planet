@@ -1,5 +1,13 @@
 ~TG群(号没了🙃🙃🙃)~
 
+# 2025年09月26日
+
+根据 https://docs.zerotier.com/roots/#planning-your-deployment 和 https://github.com/zerotier/ZeroTierOne/blob/dev/RELEASE-NOTES.md 以及源代码和文档变动
+
+1. ZT官方已弱化用户自建planet,推荐联系ZT官方进行planet自建,但目前现有的旧方法自建planet依然有效(商业使用需要ZT授权,个人用户非商业可正常使用)
+2. zerotier 1.16 移动端版本已增加自定义planet/moon支持
+3. zerotier 1.16 已在测试指定一个或者多个节点作为中继节点(moon有可能在未来被废弃)
+
 # 一分钟自建zerotier-planet
 
 私有部署zeroteir-planet服务
